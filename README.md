@@ -1,0 +1,2 @@
+# smpresourcepacks
+resourcepacks
